@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
 
-import {FaAward} from 'react-icons/fa'
+// import {FaAward} from 'react-icons/fa'
 import {GiSpellBook} from 'react-icons/gi'
 import {VscFolderLibrary} from 'react-icons/vsc';
 

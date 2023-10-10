@@ -6,8 +6,8 @@ import {FaFacebookF} from 'react-icons/fa'
 import {FaInstagramSquare} from 'react-icons/fa'
 import {BsYoutube} from 'react-icons/bs'
 import {RiTwitterFill} from 'react-icons/ri'
-import {FaDribbble} from 'react-icons/fa'
-import {BsBehance} from 'react-icons/bs';
+// import {FaDribbble} from 'react-icons/fa'
+// import {BsBehance} from 'react-icons/bs';
 
 const Footer = () => {
   return (
@@ -17,9 +17,9 @@ const Footer = () => {
       </div> */}
       
 
-        <a href="#" className='footer__logo'>Sonikumari A</a>
+        {/* <a href="#" className='footer__logo'>Sonikumari A</a> */}
         <ul className='permalinks'>
-            <li><a href="#">Home</a></li>
+            {/* <li><a href="#">Home</a></li> */}
             <li><a href="#about">About</a></li>
             <li><a href="#skills">Skills</a></li>
             <li><a href="#services">Services</a></li>
